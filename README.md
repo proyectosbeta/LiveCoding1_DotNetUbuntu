@@ -1,5 +1,5 @@
 # Live Coding: Dotnet Core + Aspnet + Github en Ubuntu
-Este repositorio tiene relación con el ejemplo presentado en el evento realizaod el 23/05/2020. Fue el primer Live Coding realizado y hay muchas cuestiones que mejorar.
+Este repositorio tiene relación con el ejemplo presentado en el evento realizado el 23/05/2020. Fue el primer Live Coding realizado y hay muchas cuestiones que mejorar.
 
 ## .NET Core
 Se encuentra disponible aquí **consola** que es el primer proyecto que se refiere a la aplicación de consola que se ha creado.
