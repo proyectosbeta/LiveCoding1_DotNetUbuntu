@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cmasdev/.dotnet/store/|arch|/|tfm|",
+      "/home/cmasdev/.nuget/packages"
+    ]
+  }
+}

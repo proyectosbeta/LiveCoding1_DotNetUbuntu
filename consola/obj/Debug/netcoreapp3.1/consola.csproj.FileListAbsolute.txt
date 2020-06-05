@@ -1,0 +1,13 @@
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola.deps.json
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola.runtimeconfig.json
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola.runtimeconfig.dev.json
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola.dll
+/home/cmasdev/source/repos/consola/bin/Debug/netcoreapp3.1/consola.pdb
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.csprojAssemblyReference.cache
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.AssemblyInfoInputs.cache
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.AssemblyInfo.cs
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.csproj.CoreCompileInputs.cache
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.dll
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.pdb
+/home/cmasdev/source/repos/consola/obj/Debug/netcoreapp3.1/consola.genruntimeconfig.cache

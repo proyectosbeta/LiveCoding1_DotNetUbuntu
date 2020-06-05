@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6s/6Yx2gbw6IEmQa1h/qc87F6CkAUAyMpCejGXms3NQdDPv8jqIRi15qasD3j8P8614aG2X6FB8CrZnnYcoRCw==",
+  "success": true,
+  "projectFilePath": "/home/cmasdev/source/repos/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/home/cmasdev/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
